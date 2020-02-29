@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fill Block
+  - L Block
+  - SEBlock
+  - Obsticle Block
+  - Yelllow Block
+  - Forward Block
+  - Turn Block
+  - Turn Block Type
+  - Car
+  - Ground
+  - Destroy
+  - TNT
+  - Star
+  - Coin
+  - Gem
+  - Pipe Block
+  - Car Rotator
+  - Heli Location
+  - Ad
+  - Static Holder
+  - Dynamic Holder
+  - PlayerSpot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - GroundCollide
+  - Obsticles
+  - Car
+  - Block
+  - CarObsticles
+  - SelectUI
+  - Player Spot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

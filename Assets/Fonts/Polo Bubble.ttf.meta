@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0611c6bf0928d3447a96c72ef82c9fac
+timeCreated: 1558058007
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Polo Bubble
+  fontNames:
+  - Polo Bubble
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

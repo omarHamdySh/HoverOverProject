@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: df9929f28f20b584480aa5213727ff95
+timeCreated: 1558058285
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candyshop
+  fontNames:
+  - Candyshop
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 839d7b0e524d28a46a6f188ae96cf47f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
